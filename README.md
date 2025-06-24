@@ -43,8 +43,8 @@ Welcome to my GitHub profile! I'm a student interested in web and software devel
 
 ## 🌐 Links
 
-- **Connect:** [LinkedIn Profile](www.linkedin.com/in/dipanshuSheoran)
-
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/dipanshusheoran)
+- **Connect:** [GitHub Profile](https://github.com/dipanshu849)
 ---
 
 _Thanks for visiting! Feel free to explore my repositories and connect with me._
